@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20M.%20Iqbal&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20there%20I%20am%20M.%20Iqbal&fontSize=50" />
 </div>
 
 <div align="center">
@@ -45,11 +45,13 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" />
 </p>
 ---
 
