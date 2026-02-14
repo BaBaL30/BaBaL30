@@ -45,15 +45,9 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 ---
 
 ### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" width="100%" alt="Activity Graph" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=github-compact)
 
 ---
 
