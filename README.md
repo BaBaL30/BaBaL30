@@ -14,7 +14,6 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 - 🍎 **Current Focus**: iOS Development (Swift & SwiftUI) & AI
 - 💻 **Web Experience**: Berpengalaman membangun sistem berbasis web dengan Laravel & MySQL.
 - 🎨 **Design Passion**: Gemar menciptakan pengalaman pengguna yang intuitif menggunakan Figma.
-- 🛡️ **Security Interests**: Memiliki sertifikasi dasar dalam Cybersecurity (EHE, NDE).
 
 ---
 
@@ -39,9 +38,7 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 
 ### 🏆 Achievements & Certifications
 - 🍎 **Apple Developer Academy @ Infinite Learning** (Class 2026)
-- 🛡️ **EC-Council Ethical Hacking Essentials** (EHE)
 - 🌐 **MikroTik Certified Network Associate** (MTCNA)
-- 🛡️ **EC-Council Network Defense Essentials** (NDE)
 - 📄 **Hak Cipta Program Komputer**: Website Ma'had Abu Ad Darda'
 
 ---
