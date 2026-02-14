@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20and%20the%20universe%20said%20i%20love%20you,%20are%20in%20love." alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=and%20the%20universe%20said%20i%20love%20you,%20are%20in%20love." alt="Quote" />
 </div>
 
 ---
