@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=33b5e5&height=200&section=header&text=Hi%20there,%20I'm%20M.%20Iqbal&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20M.%20Iqbal&fontSize=50" />
 </div>
 
 <div align="center">
@@ -43,20 +43,14 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 
 ---
 
-### 🐍 My GitHub Contributions
-<!-- Animasi snake akan muncul secara otomatis setelah workflow Actions Anda berhasil berjalan (Fix Billing diperlukan) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BaBaL30/BaBaL30/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" width="300" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" width="100%" />
+</p>
 ---
 
 ### 📫 Connect with Me
