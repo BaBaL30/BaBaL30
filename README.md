@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry,%20stay%20foolish." alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20and%20the%20universe%20said%20i%20love%20you,%20are%20in%20love." alt="Quote" />
 </div>
 
 ---
@@ -41,13 +41,6 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 - 🍎 **Apple Developer Academy @ Infinite Learning** (Class 2026)
 - 🌐 **MikroTik Certified Network Associate** (MTCNA)
 - 📄 **Hak Cipta Program Komputer**: Website Ma'had Abu Ad Darda'
-
----
-
-### 📊 GitHub Activity & Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=github-compact)
 
 ---
 
